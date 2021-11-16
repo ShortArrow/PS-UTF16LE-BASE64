@@ -21,6 +21,7 @@ For more advanced obfuscation, we recommend [Invoke-Obfuscation](https://github.
 1. Run `encoder.ps1`.
 1. Bring the following files to the target environment and place them in the same directory.
     - `payload.dat`
+    - `execute.ps1`
     - `execute.cmd`
 1. Run `execute.cmd` on the target environment.
 
