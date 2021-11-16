@@ -1,1 +1,1 @@
-pwsh -e (Get-Content .\payload.dat)
+pwsh -e (cat .\payload.dat)
